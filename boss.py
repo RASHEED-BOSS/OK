@@ -1,2 +1,2 @@
-from BOSS import BOSS
-BOSS()
+from BOSS import menu
+menu()
